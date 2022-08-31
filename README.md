@@ -12,7 +12,8 @@
 
 ## Upcoming Meetings
 
-Fall Board Meeting
+Fall Board Meeting (2022-2023)
+
 - Thursday November 10, 2022 at Asheville, NC (SE)
 - The Board will have dinner ~5:00 or 5:30-7 p.m. at Stoneridge Tavern at 1003 Brevard Road.
 - Followed by meeting ~ 7-11 p.m. at Comfort Suites hotel across the street at 890 Brevard Road.
@@ -24,9 +25,10 @@ if at all possible.
 - Please make every effort to attend in person.  
 - Let me know if this is not feasible for you.
 
+Spring 23 Board Meeting (2022-2023)
 
-Spring Board Meeting
 - March 2023 at SIGCSE Toronto, ONT, Canada (Board + Business)
+- [SIGCSE TS 2023](https://sigcse2023.sigcse.org/) will be held from March 15-18, 2023 ain Toronto, Ontario, Canada.
 
 ---
 
