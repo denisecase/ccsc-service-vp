@@ -238,7 +238,7 @@ June
 
 September
 
-- [ ] Ask the Treasurer to send you the latest copy of our Proof of Insurance needed for the in-cooperation agreements.
+- [X] Ask the Treasurer to send you the latest copy of our [Proof of Insurance](cert-of-insurance) needed for the in-cooperation agreements.
 - [ ] If there is a fall conference scheduled on or after 11/8, submit its in-cooperation agreement to ACM.
 - [ ] Mid-month, ask Board members to submit their reports to you.  
 
