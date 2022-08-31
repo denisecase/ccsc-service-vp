@@ -2,7 +2,16 @@
 
 > Repository for sharing information required for CCSC Vice President.
 
----
+### Links
+
+- [CCSC](http://www.ccsc.org/)
+- [Board and Contact Information](http://www.ccsc.org/board/)
+- [Minutes](http://www.ccsc.org/board/documents-public/minutes/)
+
+### Upcoming
+
+- Thursday November 10, 2022 at Asheville, NC (SE)
+- March 2023 at SIGCSE Toronto, ONT, Canada	(Board + Business)
 
 ## Responsibilities
 
@@ -43,37 +52,35 @@ is held on the Thursday evening immediately before one of the fall
 conferences.  (The region rotates from year to year.)  The spring meeting
 is held the evening before the first day of the annual SIGCSE conference.
 
-    a.  About 3 weeks before the meeting, send an e-mail message to
+1. About 3 weeks before the meeting, send an e-mail message to
         the entire board, requesting their reports.  Regional reps
         need to send you a report on their region.  Officers such
         as the treasurer, membership secretary, and publication chair,
         also submit reports.  All you need to do is insert these
         reports into the minutes of the meeting.
     
-    b.  A few days before the Board meeting, the President should send
+2. A few days before the Board meeting, the President should send
         you the meeting agenda.  You can insert the regional and officer
-        reports into the agenda.
-        
-        As VP, you also have a report to insert into the agenda.
+        reports into the agenda. As VP, you also have a report to insert into the agenda.
         Basically, this itemizes all of the VP work that you have
         done since the last Board meeting, including the results
         of all of the motions the Board considered via e-mail.
 
-    c.  At the meeting, take notes on what is discussed.  You can even
+3. At the meeting, take notes on what is discussed.  You can even
         attempt a rough draft of the minutes during the meeting live
         by editing the agenda/minutes document that the President shares
         with you.
     
-    d.  The final version of the minutes should be submitted to the
+4.  The final version of the minutes should be submitted to the
         board for approval within a month after the meeting.
         
-    e.  The spring board meeting is followed soon after by the general 
+5. The spring board meeting is followed soon after by the general 
         business meeting during SIGCSE.  This is a short meeting, 
         consisting mainly of announcements to the entire membership.  
         You also need to take minutes of this meeting.  It gets approved 
         at the same time as the minutes of the board meeting.
 
-    f.  All of your travel expenses are reimbursed by CCSC.  Send your
+6. All of your travel expenses are reimbursed by CCSC.  Send your
         reimbursement form and receipts to the Treasurer.
 
 ### 3.  Summer elections
@@ -127,56 +134,56 @@ Chronological order of important Vice Presidential tasks.
 
 January
 
-  1. Begin discussions with the nominating committee regarding who is going to run for election/re-election.
-  2. Ask incumbents if they want to serve another term.
+- [ ] Begin discussions with the nominating committee regarding who is going to run for election/re-election.
+- [ ] Ask incumbents if they want to serve another term.
 
 February
 
-  1. Late in the month, remind Board members to submit reports to you.
+- [ ] Late in the month, remind Board members to submit reports to you.
 
 March
 
-  1. A few days before the Board meeting, the President should send you the meeting agenda.  
-  2. Insert the regional and officer reports into the agenda.  
-  3. As chair of the nominating committee, insert a little report showing the names of the proposed candidates for this year's elections.
-  4. Attend the board and business meeting that is held in conjunction with SIGCSE.
+- [ ] A few days before the Board meeting, the President should send you the meeting agenda.  
+- [ ] Insert the regional and officer reports into the agenda.  
+- [ ] As chair of the nominating committee, insert a little report showing the names of the proposed candidates for this year's elections.
+- [ ] Attend the board and business meeting that is held in conjunction with SIGCSE.
 
 April
 
-  1. Submit the minutes of the spring board meeting and the general business meeting to the Board for approval.
+- [ ] Submit the minutes of the spring board meeting and the general business meeting to the Board for approval.
 
 May
 
-  1. Submit in-cooperation agreements to ACM for our fall conferences.
-  2. Conduct online elections.
+- [ ] Submit in-cooperation agreements to ACM for our fall conferences.
+- [ ] Conduct online elections.
 
 June
 
-  1. When election period is over, announce winners.
+- [ ] When election period is over, announce winners.
 
 September
 
-  1. Ask the Treasurer to send you the latest copy of our Proof of Insurance needed for the in-cooperation agreements.
-  2. If there is a fall conference scheduled on or after 11/8, submit its in-cooperation agreement to ACM.
-  3. Mid-month, ask Board members to submit their reports to you.  
+- [ ] Ask the Treasurer to send you the latest copy of our Proof of Insurance needed for the in-cooperation agreements.
+- [ ] If there is a fall conference scheduled on or after 11/8, submit its in-cooperation agreement to ACM.
+- [ ] Mid-month, ask Board members to submit their reports to you.  
 
 October/November
 
-  1. A few days before the Board meeting, the President should send you the meeting agenda.  
-  2. Insert the regional and officer reports into the agenda.
-  3. Attend the Board meeting held in conjunction with a regional CCSC conference.
+- [ ] A few days before the Board meeting, the President should send you the meeting agenda.  
+- [ ] Insert the regional and officer reports into the agenda.
+- [ ] Attend the Board meeting held in conjunction with a regional CCSC conference.
 
 November
 
-  1. Submit the minutes of the fall board meeting for approval.
+- [ ] Submit the minutes of the fall board meeting for approval.
 
 November/December
 
-  1. Submit in-cooperation agreements to ACM for our spring conferences.
+- [ ] Submit in-cooperation agreements to ACM for our spring conferences.
 
 Anytime
 
-  1. Check your e-mail periodically for motions and votes on motions.
+- [ ] Check your e-mail periodically for motions and votes on motions.
 
 
 ## About
