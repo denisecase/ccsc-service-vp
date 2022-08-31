@@ -1,0 +1,284 @@
+
+
+---------- Forwarded message ---------
+From: Chris Healy <chris.healy@furman.edu>
+Date: Tue, Aug 9, 2022 at 12:51 PM
+Subject: Re: CCSC Vice Presidential activities this fall
+To: Denise Case <denisecase@gmail.com>
+
+
+Denise,
+
+Below, I've typed up an outline of all the VP activities that come to mind.
+They basically say what to do, and not so much on the details of exactly
+how to do them.  I can show you the details in the coming weeks and months
+as needed.
+
+I've presented the outline in 2 ways.  The first is thematic, showing you the
+4 basic things the VP needs to do.  The second part gives you a calendar of when
+various activites occur. 
+
+For your convenience, I'm also attaching it as a text document.
+
+--Chris
+
+
+CCSC Vice Presidential checklist
+--------------------------------
+
+1.  In-cooperation agreements
+
+We have 10 conferences a year.  Five in the fall, and five in the spring.
+In order to use ACM and SIGCSE logos to promote our conferences, ACM
+asks us to fill out an "in-cooperation" agreement form.  A separate form
+needs to be completed for each conference, so the procedure tends to
+become repetitive and routine.
+
+The in-cooperation forms should be submitted about 4 months in advance.
+So, ideally the fall conference forms should be submitted in April/May,
+and the spring conferences should be done in November/December.
+
+One minor wrinkle is that if a fall conference is scheduled on or after
+November 8, then the in-cooperation agreement cannot be completed so
+far in advance.  This is because of the dating of our insurance policy.
+CCSC has an annual insurance policy that renews each year on 11/8.
+And we are not billed for it until September.  As a result, if there
+are any fall conferences held on or after 11/8, you would not be able
+to complete the in-cooperation until September.  The Treasurer
+(currently Brian Hare) should send you the latest proof-of-insurance.
+
+Before filling out the in-cooperation agreement forms, you need to
+look up information about each conference to enter onto the form.
+Regarding the expected revenue and expenses of each conference,
+you can use the previous year's estimate as a starting point, and perhaps
+massage the figures based on the actual attendance figures and number
+of papers presented that should appear in the most recent Board minutes.
+
+2.  Board meetings
+
+The CCSC Board has 2 in-person meetings each year.  The fall meeting
+is held on the Thursday evening immediately before one of the fall
+conferences.  (The region rotates from year to year.)  The spring meeting
+is held the evening before the first day of the annual SIGCSE conference.
+
+    a.  About 3 weeks before the meeting, send an e-mail message to
+        the entire board, requesting their reports.  Regional reps
+        need to send you a report on their region.  Officers such
+        as the treasurer, membership secretary, and publication chair,
+        also submit reports.  All you need to do is insert these
+        reports into the minutes of the meeting.
+   
+    b.  A few days before the Board meeting, the President should send
+        you the meeting agenda.  You can insert the regional and officer
+        reports into the agenda.
+       
+        As VP, you also have a report to insert into the agenda.
+        Basically, this itemizes all of the VP work that you have
+        done since the last Board meeting, including the results
+        of all of the motions the Board considered via e-mail.
+
+    c.  At the meeting, take notes on what is discussed.  You can even
+        attempt a rough draft of the minutes during the meeting live
+        by editing the agenda/minutes document that the President shares
+        with you.
+   
+    d.  The final version of the minutes should be submitted to the
+        board for approval within a month after the meeting.
+       
+    e.  The spring board meeting is followed soon after by the general
+        business meeting during SIGCSE.  This is a short meeting,
+        consisting mainly of announcements to the entire membership.  
+        You also need to take minutes of this meeting.  It gets approved
+        at the same time as the minutes of the board meeting.
+
+    f.  All of your travel expenses are reimbursed by CCSC.  Send your
+        reimbursement form and receipts to the Treasurer.
+
+3.  Summer elections
+
+We have some board elections every year.  Consult the (online) list of
+Board members to see whose terms are expiring.  A nominating committee
+should be formed during the fall board meeting.  You as the VP are the chair
+of the nominating committee.  Beginning in January or so, contact
+incumbents to see if they are interested in re-election.  If not, solicit
+new people to run for those offices.  Consult with regional boards,
+for example.  You should have your slate of candidates ready by the
+spring board meeting.
+
+The election takes place online during a 30-day period in May/June.
+We use a vendor called votingplace.net.  You will have login credentials
+to administer the election.  You also need to pay for the election,
+and then immediately get reimbursed by the Treasurer.
+
+4.  Board motions
+
+At any time during the year, a board member may introduce a motion
+for the entire board to debate.  Discussion and voting on these
+motions is done via e-mail.  The way to communicate to the rest of
+the board is to send e-mail to:  ccsc_board@gaggle.email.
+
+All motions except those coming from a committee need a second.
+The President will announce a 3-day discussion period, followed by
+a 2-day voting period.  They are business days, not including weekends.
+For example, if a motion is announced and seconded on Monday, the
+President may decide that the discussion period would be Tuesday through
+Thursday, with voting taking place on Friday and the following Monday.
+People vote by sending e-mail directly to you.  
+
+You should maintain a spreadsheet to keep track of all the motions,
+one page per motion.  You need to record what the motion is, who
+made the motion and on what date, who seconded and on what date,
+and the dates of voting.  Finally, you need to record the votes
+for each Board member.  The day after voting is over, announce the
+result to the board via e-mail.  I recommend also including a screenshot
+of your spreadsheet page so that all of the details of the motion
+can be seen.
+
+On the first day of voting, encourage all Board members to vote,
+and instruct them to send their votes straight to you.
+
+----------------------------------------------------------------------
+Chronological order of important Vice Presidential tasks.
+
+January
+  Begin discussions with the nominating committee
+  regarding who is going to run for election/re-election.
+  Ask incumbents if they want to serve another term.
+
+February
+  Late in the month, remind Board members to submit reports to you.
+
+March
+  A few days before the Board meeting, the President should send
+  you the meeting agenda.  You can insert the regional and officer
+  reports into the agenda.  As chair of the nominating committee,
+  you would also insert a little report showing the names of
+  the proposed candidates for this year's elections.
+ 
+  Attend the board and business meeting that is held in conjunction
+  with SIGCSE.
+
+April
+  Submit the minutes of the spring board meeting and the general
+  business meeting to the Board for approval.
+
+May
+  Submit in-cooperation agreements to ACM for our fall conferences.
+
+  Conduct online elections.
+
+June
+  When election period is over, announce winners.
+
+September
+  Ask the Treasurer to send you the latest copy of our
+  Proof of Insurance.  This is needed for the in-cooperation agreements.
+
+  If there is a fall conference scheduled on or after 11/8,
+  submit its in-cooperation agreement to ACM.
+
+  In the middle of the month, ask Board members to submit their
+  reports to you.  
+
+October/November
+  A few days before the Board meeting, the President should send
+  you the meeting agenda.  You can insert the regional and officer
+  reports into the agenda.
+
+  Attend the Board meeting held in conjunction with a regional
+  CCSC conference.
+
+November
+  Submit the minutes of the fall board meeting for approval.
+
+November/December
+  Submit in-cooperation agreements to ACM for our spring conferences.
+
+Anytime
+  Check your e-mail periodically for motions and votes on motions.
+
+From: Denise Case <denisecase@gmail.com>
+Sent: Tuesday, August 9, 2022 10:16 AM
+To: Chris Healy <chris.healy@furman.edu>
+Subject: Re: CCSC Vice Presidential activities this fall
+ 
+Perfect - thanks! 
+
+On Mon, Aug 8, 2022, 1:24 PM Chris Healy <chris.healy@furman.edu> wrote:
+Denise,
+
+Sure, that's great!  Yes, let's plan on 4pm Central on Wednesday.
+Below, I'll paste my Zoom appointment info:
+
+--Chris
+
+
+Chris Healy is inviting you to a scheduled Zoom meeting.
+
+Topic: Office Hours
+Time: This is a recurring meeting Meet anytime
+
+Join Zoom Meeting
+https://furman.zoom.us/j/97530880339?pwd=SDdxRmtqQldmOVg4UVExM2lMRG5MUT09
+
+Meeting ID: 975 3088 0339
+Passcode: 1826
+One tap mobile
++13126266799,,97530880339# US (Chicago)
++16465588656,,97530880339# US (New York)
+
+Dial by your location
+        +1 312 626 6799 US (Chicago)
+        +1 646 558 8656 US (New York)
+        +1 646 931 3860 US
+        +1 301 715 8592 US (Washington DC)
+        +1 669 900 6833 US (San Jose)
+        +1 253 215 8782 US (Tacoma)
+        +1 346 248 7799 US (Houston)
+        +1 386 347 5053 US
+        +1 564 217 2000 US
+        +1 669 444 9171 US
+Meeting ID: 975 3088 0339
+Find your local number: https://furman.zoom.us/u/adYuSob69U
+
+Join by SIP
+97530880339@zoomcrc.com
+
+Join by H.323
+162.255.37.11 (US West)
+162.255.36.11 (US East)
+213.19.144.110 (Amsterdam Netherlands)
+213.244.140.110 (Germany)
+103.122.166.55 (Australia Sydney)
+103.122.167.55 (Australia Melbourne)
+64.211.144.160 (Brazil)
+69.174.57.160 (Canada Toronto)
+65.39.152.160 (Canada Vancouver)
+Meeting ID: 975 3088 0339
+Passcode: 1826
+
+
+From: Denise Case <denisecase@gmail.com>
+Sent: Monday, August 8, 2022 2:06 PM
+To: Chris Healy <chris.healy@furman.edu>
+Cc: Case,Denise M <dcase@nwmissouri.edu>
+Subject: Re: CCSC Vice Presidential activities this fall
+ 
+Hi Chris - 
+
+Thank you - I'll take a look. I'm out of the office today and tomorrow - would some time Wednesday afternoon work for you?  Say 4 pm central time? 
+
+Denise
+
+On Mon, Aug 8, 2022, 11:15 AM Chris Healy <chris.healy@furman.edu> wrote:
+Denise,
+
+I am delighted to be able to work with you on the CCSC national board.
+I'm not sure if you saw my earlier message.  Please let me know when
+is a good time for us to talk, either by phone or on Zoom.
+
+As the new vice president, there are a few things I need to show you
+how to do for the fall. 
+
+thanks,
+Chris
