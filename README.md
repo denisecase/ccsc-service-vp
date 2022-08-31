@@ -34,6 +34,8 @@ Spring 23 Board Meeting (2022-2023)
 
 ## 5 Fall Conferences - 2022-2023 academic year
 
+Complete ACM Incooperation Agreement in April/May for Fall conferences held before Nov 8. 
+
 [Midwestern](https://www.ccsc.org/midwest/)
 
 - October 7-8, 2022
@@ -64,7 +66,11 @@ Spring 23 Board Meeting (2022-2023)
 - University of North Carolina – Asheville, in Asheville, NC
 - Conference Chairs: Marietta Cameron & Kevin Sanft
 
+ACM Incooperation Agreement and Statement of Understanding is delayed for conferences held after Nov 8. Get new Certificate of Insurance from the Treasurer in September.
+
 ## 5 Spring Conferences - 2022-2023 academic year
+
+Complete ACM Incooperation Agreement in Nov/Dec for Spring conferences. 
 
 [Central Plains]()
 
@@ -101,9 +107,9 @@ and the spring conferences should be done in November/December.
 One minor wrinkle is that if a fall conference is scheduled on or after
 November 8, then the in-cooperation agreement cannot be completed so
 far in advance.  This is because of the dating of our insurance policy.
-CCSC has an annual insurance policy that renews each year on 11/8.
+CCSC has an annual insurance policy that renews each year on November 8.
 And we are not billed for it until September.  As a result, if there
-are any fall conferences held on or after 11/8, you would not be able
+are any fall conferences held on or after November 8, you would not be able
 to complete the in-cooperation until September.  The Treasurer
 (currently Brian Hare) should send you the latest proof-of-insurance.
 
