@@ -14,9 +14,8 @@
 
 Fall Board Meeting
 - Thursday November 10, 2022 at Asheville, NC (SE)
-- The Board will have dinner ~5:00 or 5:30-7 p.m. 
-- Followed by meeting ~ 7 - 11 p.m.
-- Location: TBD by CCSC President
+- The Board will have dinner ~5:00 or 5:30-7 p.m. at Stoneridge Tavern at 1003 Brevard Road.
+- Followed by meeting ~ 7-11 p.m. at Comfort Suites hotel across the street at 890 Brevard Road.
 - Board members should stay at Comfort Suites or Holiday Inn: http://ccscse.org/lodging.php?year=36th
 - These two hotels are a couple blocks apart in the same neighborhood.
 - They are located about 7 miles from the airport and 9 miles from the university.  
