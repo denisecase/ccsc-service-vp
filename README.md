@@ -7,15 +7,67 @@
 - [CCSC](http://www.ccsc.org/)
 - [Board and Contact Information](http://www.ccsc.org/board/)
 - [Minutes](http://www.ccsc.org/board/documents-public/minutes/)
+- [Conference Calendar](http://www.ccsc.org/regions/calendar/)
 
-### Upcoming
+
+### Upcoming Meetings
 
 - Thursday November 10, 2022 at Asheville, NC (SE)
-- March 2023 at SIGCSE Toronto, ONT, Canada	(Board + Business)
+- March 2023 at SIGCSE Toronto, ONT, Canada (Board + Business)
+
+
+
+### 5 Fall Conferences 
+
+2022-2023 academic year
+
+- [Midwestern](https://www.ccsc.org/midwest/) 
+- October 7-8, 2022
+- University of Wisconsin-Stout in Menomonie, WI
+- Conference Chair: Saleh Alnaeli
+
+- [Eastern](https://sites.google.com/site/ccsceastern/conference-info)
+- October 21-22, 2022
+- DeSales University in Center Valley, PA
+- Conference Chairs: Pranshu Gupta & Kathleen Ryan
+
+- [Rocky Mountain](https://www.ccsc.org/rockymt/)
+- October 21-22, 2022
+- Utah Valley University in Orem, Utah
+- Conference Chair: Troy Taysom
+
+- [Northwestern](https://www.ccsc.org/northwest/2022/index.html)
+- November 4-5, 2022
+- Portland Community College – Sylvania Campus in Portland, OR
+- Conference Chair: Gayathri Iyer
+
+- [Southeastern](http://www.ccscse.org/conference.php?year=36th)
+- November 11-12, 2022
+- University of North Carolina – Asheville, in Asheville, NC
+- Conference Chairs: Marietta Cameron & Kevin Sanft
+
+### 5 Spring Conferences 
+
+2022-2023 academic year
+
+- [Central Plains]()
+- April 21-22, 2023
+- Johnson County Community College in Overland Park, KS
+- Conference Chair: Mahmoud Yousef
+
+- [Southwestern]()
+
+- [Northeastern]()
+
+- [South Central]()
+
+- [Mid-South]()
+
+
 
 ## Responsibilities
 
-CCSC Vice Presidential checklist:
+CCSC Vice Presidential checklist
 
 ### 1.  In-cooperation agreements
 
@@ -130,7 +182,7 @@ and instruct them to send their votes straight to you.
 
 ## Calendar
 
-Chronological order of important Vice Presidential tasks.
+Chronological order of important Vice Presidential tasks
 
 January
 
