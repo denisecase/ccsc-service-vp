@@ -12,7 +12,21 @@
 
 ## Upcoming Meetings
 
+Fall Board Meeting
 - Thursday November 10, 2022 at Asheville, NC (SE)
+- The Board will have dinner ~5:00 or 5:30-7 p.m. 
+- Followed by meeting ~ 7 - 11 p.m.
+- Location: TBD by CCSC President
+- Board members should stay at Comfort Suites or Holiday Inn: http://ccscse.org/lodging.php?year=36th
+- These two hotels are a couple blocks apart in the same neighborhood.
+- They are located about 7 miles from the airport and 9 miles from the university.  
+- CCSC will pay your travel, so would love to see all of you in person
+if at all possible.  
+- Please make every effort to attend in person.  
+- Let me know if this is not feasible for you.
+
+
+Spring Board Meeting
 - March 2023 at SIGCSE Toronto, ONT, Canada (Board + Business)
 
 ---
