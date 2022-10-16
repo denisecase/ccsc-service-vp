@@ -1,0 +1,54 @@
+# ACM Logo Reuquest - Application Information Needed
+
+> Email the CCSC Regional Reps before our Fall meeting to request ACM IDs for the conference chair and program chair (must be ACM members). 
+> 
+## Subject
+
+Important! CCSC Regional Reps: please forward to your late Fall / Spring CCSC conference chair and program chair (request to use ACM logo)
+
+## Body
+
+CCSC Regional Reps:
+
+If you have a late Fall or Spring conference, please forward this request to your upcoming Conference Chair & Program Chair.
+
+We need the following information (not publicly available) - to request permission before your regional  conference can use the ACM logo on their web site. 
+
+Reminder: SIGCE requires that Conference Chairs and Program Chairs be ACM and/or SIGCSE members.  
+
+Program Chair – Full Name and ACM/SIGCSE ID Number – or - 
+•	First, Last
+•	Affiliation – MUST BE A MEMBER
+•	Street
+•	City, State, Zip, Country
+•	Email
+•	Phone
+
+Conference Chair – Full Name and ACM/SIGCSE ID Number – or – 
+•	First, Last
+•	Affiliation – MUST BE A MEMBER
+•	Street
+•	City, State, Zip, Country
+•	Email
+•	Phone
+
+And the following conference information:
+
+•	Conference Name (e.g. CCSC-XX ’23: 2023 Computer Science Conference):
+•	Conference Dates:
+•	Website
+•	Conference location:
+•	Street
+•	City, State, Zip, Country
+•	Estimate: Number of sessions 
+•	Estimate: Number of papers 
+•	Estimate: Conference attendance 
+•	Estimate: Conference total budget
+•	Estimate: Conference total expenses (hopefully, not more than budget)
+
+We just got our updated insurance certificate, so as soon as we get their IDs and conference information, we can request permission – apologies to the SE late Fall conferences for the challenging schedule. If you have an early Fall conference, you’ll get a similar request just before our Spring meeting. 
+
+Kindest regards, 
+
+CCSC Vice President
+
