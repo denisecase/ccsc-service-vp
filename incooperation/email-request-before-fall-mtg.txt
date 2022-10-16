@@ -43,8 +43,8 @@ And the following conference information:
 •	Estimate: Number of sessions 
 •	Estimate: Number of papers 
 •	Estimate: Conference attendance 
-•	Estimate: Conference total budget
-•	Estimate: Conference total expenses (hopefully, not more than budget)
+•	Estimate: Conference total revenue
+•	Estimate: Conference total expenses (hopefully, not more than revenue)
 
 We just got our updated insurance certificate, so as soon as we get their IDs and conference information, we can request permission – apologies to the SE late Fall conferences for the challenging schedule. If you have an early Fall conference, you’ll get a similar request just before our Spring meeting. 
 
