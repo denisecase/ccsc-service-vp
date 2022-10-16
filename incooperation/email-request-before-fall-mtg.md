@@ -10,7 +10,7 @@ Important! CCSC Regional Reps: please forward to your late Fall / Spring CCSC co
 
 CCSC Regional Reps:
 
-If you have a late Fall or Spring conference, please forward this request to your upcoming Conference Chair & Program Chair.
+If you have a late Fall or Spring conference, please forward this request to your upcoming Conference Chair and Program Chair.
 
 We need the following information (not publicly available) - to request permission before your regional  conference can use the ACM logo on their web site. 
 
