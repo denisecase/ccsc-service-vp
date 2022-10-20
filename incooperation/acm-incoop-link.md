@@ -1,5 +1,15 @@
 # ACM In-Cooperation Link
 
+Read more about the agreement at <https://www.acm.org/special-interest-groups/volunteer-resources/conference-planning/1-3>
+
+First, after insurance renews in early November, get a copy of the Certificate of Insurance from the CCSC Treasurer. 
+
+Prepare the letter of understanding - new form may need to be signed by conference chair, as well as CCSC VP and President. 
+
+# Completing the Application
+
+See the Word doc in this folder for complete information and screenshots. These are just short notes. 
+
 <https://cms.acm.org/incoop/cms_incoop.cfm>
 
 Yes Yes, Next Page
