@@ -90,4 +90,7 @@ The Council endorses the September 1972 addition to the Statutes of The Internat
 Council indicates that the implementing guidelines contained in the Resolution on the Free Circulation of Scientists of the ICSU XV General Assembly shall be followed to the extent possible in developing implementing procedures specifically meant for ACM sponsored conferences in or outside the United States, recognizing the responsibility of the ACM Council as final arbiter in such matters.
 It is the viewpoint of the ACM Council that the computing community should support only such conferences, whether ACM sponsored or not, that subscribe to these guidelines. However, ACM or any of its sub-units shall not enter into formal agreements on international conference sponsorship or participation unless the sponsoring organization in the host country has agreed to adhere to these principles.
 
+-----
+
+Steering committee acm  3719882   
 
