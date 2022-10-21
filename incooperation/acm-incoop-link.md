@@ -94,3 +94,15 @@ It is the viewpoint of the ACM Council that the computing community should suppo
 
 Steering committee acm  3719882   
 
+-----
+
+Agreements: 
+
+I have reviewed the following ACM policies and understand that if cooperation status is granted, the conference is required to adhere to:
+
+ - ACM's Code of Ethics
+ - ACM's Privacy Policy
+ - ACM's Policy Against Harassment at ACM Activities
+ - ACM's Conflict of Interest Policy
+
+
